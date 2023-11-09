@@ -1,0 +1,8 @@
+ArcSight
+
+ArcSight Connector builder - Build SmartConnectors to ingest new data sources.
+ArcSight Rule generator - Automatically generate correlation rules from templates.
+ArcSight Threat feed importer - Import threat intel feeds like STIX.
+ArcSight Case manager - Script to automatically handle cases based on severity.
+ArcSight Report generator - Build reports on watchlist events, top alerts, etc.
+
